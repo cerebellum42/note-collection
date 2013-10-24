@@ -6,4 +6,4 @@
 
 > A text format that doesn't need complicated formatting indicators!
 
-> Good stuff.
+> awesome stuff.
