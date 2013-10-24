@@ -15,10 +15,7 @@ Which one do we use?
 --------------------
 Sublime Text !!!
 
-
-whytitty?
 --------
-
 
 1) Available for the most popular operating systems.
 
